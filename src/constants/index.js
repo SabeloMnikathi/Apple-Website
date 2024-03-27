@@ -61,13 +61,13 @@ export const models = [
   },
   {
     id: 3,
-    title: "iPhone 15 Pro in White Titanium",
+    title: "iPhone 15 Pro Max in White Titanium",
     color: ["#C9C8C2", "#ffffff", "#C9C8C2"],
     img: whiteImg,
   },
   {
     id: 4,
-    title: "iPhone 113 Pro Max in Black Titanium",
+    title: "iPhone 13 Pro Max in Black Titanium",
     color: ["#454749", "#3b3b3b", "#181819"],
     img: blackImg,
   },
