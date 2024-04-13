@@ -1,6 +1,6 @@
 # 🤖 Introduction
 
-This project is a clone of Apple's iPhone 16 Pro website, built using React.js and TailwindCSS. It showcases the effective utilization of GSAP (Greensock Animations) and Three.js for displaying iPhone 15 Pro models in various colors and shapes.
+This project is a clone of Apple's iPhone 16 Pro website, built using React.js and TailwindCSS. It showcases the effective utilization of GSAP (Greensock Animations) and Three.js for displaying iPhone 16 Pro models in various colors and shapes.
 
 # ⚙️ Tech Stack
 
